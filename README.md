@@ -1,3 +1,7 @@
-# Experiment 1: Git, GitHub Branches, Merge & GitHub Pages
+# Web Design Experiment 1
 
-A simple static site demonstrating repository setup, branching, merging changes, and hosting with GitHub Pages.
+Set up a GitHub repository, create branches, merge changes, and use GitHub Pages for a simple static site.
+
+## Files
+- `index.html` - the main web page (HTML + CSS)
+- `README.md` - project description
